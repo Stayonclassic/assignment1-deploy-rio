@@ -55,9 +55,6 @@ This website is built using:
 
 -   HTML5
 -   CSS3
--   JavaScript
--   Boxicons
--   ScrollReveal.js
 
 ------------------------------------------------------------------------
 
@@ -67,7 +64,6 @@ This website is built using:
     │
     ├── index.html
     ├── style.css
-    ├── script.js
     │
     ├── images
     │   ├── home.png
@@ -114,4 +110,3 @@ Planned improvements for the website:
 -   Improve responsive design
 -   Add dark mode
 -   Add animations and micro-interactions
-
